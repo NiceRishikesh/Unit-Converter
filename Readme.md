@@ -38,7 +38,6 @@ Follow the on-screen instructions to select the conversion category and enter th
 The program will output the converted value.
 Example
 ```bash
-Copy code
 Choose a conversion type:
 1. Length
 2. Weight
